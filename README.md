@@ -20,7 +20,7 @@ This project focuses on analyzing **sales performance** and **financial outcomes
 
 ## 🎯 Objectives
 - Build a [Customer Performance Report](https://github.com/Chaithra-Shree-B/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
-- Compare **Market Performance vs Sales Targets**
+- Compare [Market Performance vs Sales Targets](https://github.com/Chaithra-Shree-B/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 ## ✅ Purpose
 Empower organizations to monitor and improve sales effectiveness through data-driven insights.
