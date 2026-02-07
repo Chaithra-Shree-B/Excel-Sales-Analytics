@@ -37,8 +37,8 @@ Empower organizations to monitor and improve sales effectiveness through data-dr
 # 💰 Finance Report
 
 ## 🎯 Objectives
-- Generate **Profit & Loss (P&L)** reports by Fiscal Year and Month  
-- Create **P&L reports by Markets**
+- Generate [Profit & Loss (P&L) reports by Fiscal Year(https://github.com/Chaithra-Shree-B/Excel-Sales-Analytics/blob/main/P%26L%20Year.pdf) and Month(https://github.com/Chaithra-Shree-B/Excel-Sales-Analytics/blob/main/P%26L%20Month.pdf)]
+- Create [P&L reports by Markets](https://github.com/Chaithra-Shree-B/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20for%20Market.pdf)
 
 ## ✅ Purpose
 Evaluate financial performance to support planning and strategic decision-making.
