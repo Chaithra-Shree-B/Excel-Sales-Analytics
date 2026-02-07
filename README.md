@@ -1,1 +1,77 @@
 # Excel-Sales-Analytics
+# 📊 Sales & Finance Analytics Project
+
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-yellow)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Data%20Model-blue)
+![DAX](https://img.shields.io/badge/DAX-Analytics-orange)
+![Reporting](https://img.shields.io/badge/Focus-Business%20Insights-lightgrey)
+
+A complete **Sales and Finance Analytics solution** built using Excel, Power Query, Power Pivot, and DAX to transform raw business data into actionable insights and performance reports.
+
+---
+
+## 🚀 Project Overview
+This project focuses on analyzing **sales performance** and **financial outcomes** by creating dynamic reports that help stakeholders track KPIs, measure profitability, and make informed decisions.
+
+---
+
+# 📈 Sales Report
+
+## 🎯 Objectives
+- Build a **Customer Performance Report**
+- Compare **Market Performance vs Sales Targets**
+
+## ✅ Purpose
+Empower organizations to monitor and improve sales effectiveness through data-driven insights.
+
+## 💡 Insights Delivered
+- Sales trends and patterns  
+- KPI tracking  
+- Discount optimization strategies  
+- Better customer negotiations  
+- Identification of high-growth markets for expansion  
+
+---
+
+# 💰 Finance Report
+
+## 🎯 Objectives
+- Generate **Profit & Loss (P&L)** reports by Fiscal Year and Month  
+- Create **P&L reports by Markets**
+
+## ✅ Purpose
+Evaluate financial performance to support planning and strategic decision-making.
+
+## 💡 Insights Delivered
+- Profitability analysis  
+- Historical and industry benchmarking  
+- Budgeting and forecasting support  
+- Alignment of finance with business strategy  
+
+---
+
+# 🛠 Technical Skills Used
+- ETL (Extract, Transform, Load) methodology  
+- Data transformation using Power Query  
+- Date table generation  
+- Fiscal month & quarter calculations  
+- Power Pivot data modeling & relationships  
+- DAX calculated columns and measures  
+
+---
+
+# 🤝 Professional Skills
+- Sales & Finance reporting expertise  
+- User-centric dashboard design  
+- Performance optimization  
+- Structured and systematic project planning  
+
+---
+
+## 📌 Tools & Technologies
+**Excel • Power Query • Power Pivot • DAX • Business Intelligence • Data Analytics**
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
